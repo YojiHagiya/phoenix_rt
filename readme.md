@@ -32,6 +32,10 @@ phoenixかな配列は基本的に100%交互打鍵で入力する事を想定し
 - Google-IMEの設定画面で補完機能を有効にします。
 
 ### MS-IMEの場合
+
+- MS-IMEを以前のバージョンに戻します。
+https://support.microsoft.com/ja-jp/windows/%E4%BB%A5%E5%89%8D%E3%81%AE%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE-ime-%E5%85%A5%E5%8A%9B%E6%96%B9%E5%BC%8F%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E3%83%BC-%E3%81%AB%E6%88%BB%E3%81%99-adcc9caa-17cb-44d8-b46e-f5b473b4dd77#:~:text=%5B%E8%A8%AD%E5%AE%9A%5D%20%E5%86%85%E3%81%AE%E6%A4%9C%E7%B4%A2%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9,%E4%BD%BF%E3%81%86%5D%20%E3%82%92%E3%82%AA%E3%83%B3%E3%81%AB%E3%81%97%E3%81%BE%E3%81%99%E3%80%82
+
 - phoenix10.regをダブルクリックしてMS-IMEのローマ字定義にphoenixを追加します。
 
 - MS-IMEの設定画面でローマ字定義をphoenixに変更します。
